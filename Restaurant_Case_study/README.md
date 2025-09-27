@@ -13,7 +13,7 @@ Analyze restaurant sales data to explore customer behavior, including:
 - `dataset/restaurant_data.sql` → Contains table creation scripts and sample data for **Sales**, **Menu**, and **Members**.  
 
 **Questions**  
-- Refer to [`questions.md`](questions.md) for 20 analytical questions.  
+- Refer to [`questions.md`](Questions.md) for 20 analytical questions.  
 
 **Solutions**  
 - SQL query solutions are available in [`solutions.sql`](Restaurant_case_study_Question_Solution.sql).  
