@@ -21,6 +21,6 @@ Analyze pizza delivery operations and sales to derive business insights:
 ![Pizza Delivery Screenshot](Pizza_Delivery_Case_Study\Visual_Representation.png)  
 
 Power BI file for this case study is available here:  
-[Download .pbix](Pizza_Delivery_Case_Study/Dashboard/Pizza_delivery_Report.pbix)
+[Download .pbix](Dashboard/Pizza_delivery_Report.pbix)
 
 ---
