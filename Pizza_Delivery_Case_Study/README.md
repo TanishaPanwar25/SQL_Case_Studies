@@ -9,7 +9,7 @@ Analyze pizza delivery operations and sales to derive business insights:
 - Time-based trends in sales and deliveries  
 
 **Dataset**  
-- `dataset/pizza_data.sql` → Contains table creation scripts and sample data (**schema + INSERT statements**) for orders, customers, riders, pizzas, and deliveries.  
+- `dataset/PizzaDeliveryData.txt` → Contains table creation scripts and sample data (**schema + INSERT statements**) for orders, customers, riders, pizzas, and deliveries.  
 
 **Questions**  
 - A set of analytical questions is listed in [`questions.md`](PizzaQuestions.md).  
