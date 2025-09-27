@@ -8,7 +8,7 @@ Analyze the **MovieDB** database to extract key insights, including:
 - Box office collections  
 
 **Dataset**  
-- `dataset/movie_data.sql` → Contains table creation scripts and sample data for **Movies**, **Actors**, **MovieActors**, **Reviews**, and **BoxOffice**.  
+- `dataset/MovieDB_DATA.txt` → Contains table creation scripts and sample data for **Movies**, **Actors**, **MovieActors**, **Reviews**, and **BoxOffice**.  
 
 **Questions**  
 - A set of 25 analytical questions is provided in [`questions.md`](MovieDBPracticeQuestions.md).  
