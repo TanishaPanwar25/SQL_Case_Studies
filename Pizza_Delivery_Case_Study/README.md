@@ -1,4 +1,4 @@
-##  Case 03: Pizza Delivery Analysis  
+## Pizza Delivery Analysis  
 
 **Problem Statement**  
 Analyze pizza delivery operations and sales to derive business insights:  
@@ -19,7 +19,8 @@ Analyze pizza delivery operations and sales to derive business insights:
 
 **Dashboard (Power BI)**  
 ![Pizza Delivery Screenshot](Pizza_Delivery_Case_Study\Visual_Representation.png)  
-Power BI file is available here: [Download .pbix](Pizza_Delivery_Case_Study\Dashboard\Pizza_delivery_Report.pbix)
 
+Power BI file for this case study is available here:  
+[Download .pbix](Pizza_Delivery_Case_Study/Dashboard/Pizza_delivery_Report.pbix)
 
 ---
