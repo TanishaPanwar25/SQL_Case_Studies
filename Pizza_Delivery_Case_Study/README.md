@@ -18,9 +18,9 @@ Analyze pizza delivery operations and sales to derive business insights:
 - SQL query solutions are available in [`solutions.sql`](pizzasolution.sql).  
 
 **Dashboard (Power BI)**  
-![Pizza Delivery Screenshot](Pizza_Delivery_Case_Study\Visual_Representation.png)  
+![Pizza Delivery Screenshot](Visual_Representation.png)  
 
 Power BI file for this case study is available here:  
-[Download .pbix](Dashboard/Pizza_delivery_Report.pbix)
+[Pizza_Delivery_Dashboard](Dashboard/Pizza_delivery_Report.pbix)
 
 ---
