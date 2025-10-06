@@ -13,6 +13,15 @@ This repository contains multiple SQL case studies solved using **Microsoft SQL 
 3. **[Pizza Delivery](Pizza_Delivery_Case_Study)**  
    Analyze pizza delivery operations and sales to derive business and delivery insights including customer ordering behavior, rider performance, pizza recipes/toppings analysis, cancellations, and time-based trends.
 
+4. **[Bike Rental Shop](Bike_Rental_Shop_Scripts)**  
+   Analyze bike rental data to identify most rented bikes, customer trends, and branch performance.
+
+5. **[Chinook Database](Chinook)**  
+   Gain insights into music sales, customer behavior, and employee performance using the Chinook database.
+
+6. **[Clothing Company](Clothing_Comapany)**  
+   Explore clothing sales data to understand customer preferences, product demand, and seasonal trends.
+
 ## Technologies Used
 
 - **SQL Server (MSSQL)**  
