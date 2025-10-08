@@ -22,7 +22,7 @@ This repository contains multiple SQL case studies solved using **Microsoft SQL 
 6. **[Clothing Company](Clothing_Comapany)**  
    Explore clothing sales data to understand customer preferences, product demand, and seasonal trends.
 
-7. **[Ecommerce_Consumer_Behavior](Ecommerce_Consumer_Behavior)**  
+7. **[Ecommerce_Consumer_Behavior](Consumer_Behavior)**  
    Analyze ecommerce consumer behavior to explore demographics, purchase patterns, satisfaction levels, and marketing insights.
 
 ## Technologies Used
