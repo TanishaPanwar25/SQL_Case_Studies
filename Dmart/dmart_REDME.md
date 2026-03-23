@@ -29,7 +29,7 @@ The goal is to identify trends and suggest strategies to minimize disruptions in
 ---
 
 ##  DMart.md Context
-The file [DMart.md](DMart.md) contains the original case study context, including introduction, problem statement, and dataset details.  
+The file [DMart.md] contains the original case study context, including introduction, problem statement, and dataset details.  
 It serves as the foundation for this analysis.
 
 ---
