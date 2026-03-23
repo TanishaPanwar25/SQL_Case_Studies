@@ -1,28 +1,55 @@
-# Case 06: E-Commerce User Engagement and Campaign Analysis
+# 📊  E-Commerce User Engagement and Campaign Analysis
 
-## Detailed Problem Statement
-This case study examines user engagement on an e-commerce platform featuring products like ethnic wear, electronics, and home goods during targeted promotional campaigns. The business focus is on optimizing marketing efforts by analyzing user journeys, ad interactions, and conversion funnels. The analysis emphasizes metrics such as user counts, session behaviors, cart additions, and campaign exposure to uncover insights into user retention, purchase patterns, and the impact of ads on overall engagement.
+##  Detailed Problem Statement
+This case study examines user engagement on an e-commerce platform featuring products like ethnic wear, electronics, and home goods during targeted promotional campaigns.  
 
-## Dataset Description
+The business focus is on optimizing marketing efforts by analyzing:
+- User journeys  
+- Ad interactions  
+- Conversion funnels  
 
-The dataset is provided inside the `dataset/` folder.  
-- The main SQL script is [`data.sql`](dataset/data.sql), which creates the `user_engagement` schema and its tables with some sample insert statements.  
-- Additional data files like [`users_data.sql`](dataset/users_data.sql) and [`events_data.sql`](dataset/events_data.sql) are also included for inserting extended sample data.
+The analysis emphasizes metrics such as:
+- User counts  
+- Session behaviors  
+- Cart additions  
+- Campaign exposure  
 
-Schema Summary: Captures e-commerce events, users, pages, and campaigns for behavioral analysis.
+This helps uncover insights into user retention, purchase patterns, and the impact of ads on overall engagement.
 
-Tables Breakdown:
-- **event_identifier**: Event type mappings (e.g., Page View, Purchase).
-- **campaign_identifier**: Campaign details including product ranges and durations.
-- **page_hierarchy**: Page names with product categories and IDs.
-- **users**: User-cookie linkages with start dates.
-- **events**: Visit logs with timestamps, event types, and sequences.
+---
 
-## Questions Section
-See [questions.md](questions.md) for the list of analysis questions.
+##  Dataset Description
 
-## Solutions Section
-See [solutions.sql](solutions.sql) for SQL queries addressing each question.
+The dataset is provided inside the `Dataset/` folder.
 
-## Objective
-This case study is designed to practice advanced SQL skills, including joins across tables, aggregations, window functions, string manipulations, and subqueries for data analysis. It helps in honing abilities to derive business insights from user behavior data, such as campaign effectiveness and user segmentation.
+- Main data file: [User_engagmentData.txt](User_engagmentData.txt)
+
+###  Description
+The dataset captures e-commerce user behavior including interactions, sessions, and engagement patterns.
+
+---
+
+##  Questions
+See [User_engagmentQuestions.md](User_engagmentQuestions.md) for the list of analysis questions.
+
+---
+
+##  Solutions
+See [userEngagement_Case_Solution.sql](userEngagement_Case_Solution.sql) for SQL queries addressing each question.
+
+---
+
+##  Objective
+This case study helps in:
+- Understanding user behavior  
+- Analyzing marketing campaigns  
+- Practicing SQL for real-world scenarios  
+- Extracting actionable business insights  
+
+---
+
+##  Tools Used
+- SQL  
+- Data Analysis  
+
+---
